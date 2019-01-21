@@ -2,7 +2,7 @@
 
 tic tac toe within tic tac toe
 
-## Compile
+## Build
 
 ```
 mvn clean install
