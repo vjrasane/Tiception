@@ -1,3 +1,4 @@
+package tiception;
 
 public enum Mark {
 
